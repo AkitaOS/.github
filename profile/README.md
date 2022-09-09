@@ -1,6 +1,6 @@
 # AKITA
 
-# What is this ?
+# What is Akita.rest ?
 Akita is opened sourced projects that anyone can use!
 
 The majority of these are made on html and can be found on https://akita.rest/projects
